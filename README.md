@@ -5,10 +5,15 @@
 Story Telling, less technical:
 
 https://aws.amazon.com/blogs/apn/anatomy-of-a-supply-chain-ransomware-attack-and-how-to-prevent-it-with-barracuda-cloudgen-waf-on-aws/
+
 https://blog.barracuda.com/2021/11/18/secured-21-keys-to-fast-successful-application-security-deployment
+
 https://www.sysdig.com/blog/aws-rds-security-events-sysdig
+
 https://www.sysdig.com/blog/aws-ec2-security-cloudtrail-sysdig
+
 https://www.f5.com/company/blog/nginx/how-nginx-one-enhances-management-and-observability
+
 https://aws.amazon.com/blogs/apn/anatomy-of-a-supply-chain-ransomware-attack-and-how-to-prevent-it-with-barracuda-cloudgen-waf-on-aws/
 
 More Technical, still storytelling:
