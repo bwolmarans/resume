@@ -57,7 +57,11 @@ dBase III Consultant @ Standard Bank May 1989 - March 1991
 
 ## Education
 
-Dipl.Tech, British Columbia Institute of Technology (BCIT), 1995
+Diploma of Technology (Associates Degree), British Columbia Institute of Technology (BCIT), 1995
+
+BA Fine Arts ( -INCOMPLETE- ) Wits Technikon, South Africa 1994
+
+BA Fine Arts ( -INCOMPLETE- ), Longwood College, Virginia 1993
 
 
 
