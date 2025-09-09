@@ -1,8 +1,6 @@
 # Resume
 ![identify this place and win a prize](https://github.com/bwolmarans/resume/blob/main/identifythisplaceandsubmitaprwinaprize.png)  
 
-!<img src="https://github.com/bwolmarans/resume/blob/main/identifythisplaceandsubmitaprwinaprize.png width="128">
-
 A fine selection of my public work, blog posts first, and then a selection of github repos that are more technical fare, but still offered in the style of a readable blog post, with a story at the beginning:
 
 ## Story Telling, less technical:
