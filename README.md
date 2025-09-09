@@ -48,8 +48,11 @@ Engineering Manager @ Spirent July 2006 – April 2008
 Principal Systems Engineer @ Spirent April 2000 – June 2006
 
 Resident Engineer @ Steve’s & Associates Burnaby, BC  April 1998 - March 2000
+
 Systems Engineer @ Nihon Libertec Tokyo, Japan  May 1996 - March 1998
+
 Applications Engineer @ Glenayre Electronics Burnaby, BC  March 1995 - April 1996
+
 dBase III Consultant @ Standard Bank May 1989 - March 1991
 
 ## Education
