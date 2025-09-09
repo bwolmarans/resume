@@ -61,7 +61,7 @@ Diploma of Technology (Associates Degree), British Columbia Institute of Technol
 
 BA Fine Arts ( -INCOMPLETE- ) Wits Technikon, South Africa 1994
 
-BA Fine Arts ( -INCOMPLETE- ), Longwood College, Virginia 1993
+BA Fine Arts ( -INCOMPLETE- ) Longwood College, Virginia 1993
 
 
 
