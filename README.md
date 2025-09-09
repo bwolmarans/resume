@@ -25,3 +25,39 @@ RESTApi Usage Example: https://github.com/bwolmarans/nms-acm-configurator
 
 WAF End-user Training: https://github.com/bwolmarans/bwaf-lab
 
+## Work Experience
+
+Sr Outbound Product Manager @ NGINX @ F5 Dec 2023 - present
+
+Product Management Engineer @ NGINX @ F5 Dec 2022 - Dec 2023
+
+Technical Marketing Manager @ Sysdig March 2022 - Nov 2022
+
+Director of Product Management @ Barracuda Networks January 2020 – March 2022
+
+Security Systems Engineer level III @ F5 August 2012 – January 2020
+
+Product Manager @ Spirent January 2012 – July 2012
+
+Technical Marketing Manager @ Spirent October 2009 – Dec 2011
+
+Product Marketing Manager @ Spirent May 2008 – Sept 2009
+
+Engineering Manager @ Spirent July 2006 – April 2008
+
+Principal Systems Engineer @ Spirent April 2000 – June 2006
+
+Resident Engineer @ Steve’s & Associates Burnaby, BC  April 1998 - March 2000
+Systems Engineer @ Nihon Libertec Tokyo, Japan  May 1996 - March 1998
+Applications Engineer @ Glenayre Electronics Burnaby, BC  March 1995 - April 1996
+dBase III Consultant @ Standard Bank May 1989 - March 1991
+
+## Education
+
+Dipl.Tech, British Columbia Institute of Technology (BCIT), 1995
+
+
+
+
+
+
