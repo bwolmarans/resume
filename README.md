@@ -4,15 +4,17 @@ A fine selection of my public work, blog posts first, and then a selection of gi
 
 ## Story Telling, less technical:
 
-WAF Thought Leadership: https://aws.amazon.com/blogs/apn/anatomy-of-a-supply-chain-ransomware-attack-and-how-to-prevent-it-with-barracuda-cloudgen-waf-on-aws/
+WAF/WAAP Thought Leadership: https://aws.amazon.com/blogs/apn/anatomy-of-a-supply-chain-ransomware-attack-and-how-to-prevent-it-with-barracuda-cloudgen-waf-on-aws/
 
 AppSec: https://blog.barracuda.com/2021/11/18/secured-21-keys-to-fast-successful-application-security-deployment
 
-Cloud-Native Security: https://www.sysdig.com/blog/aws-rds-security-events-sysdig
+Cloud-delivered AppSec: https://techcommunity.microsoft.com/blog/marketplace-blog/client-side-attacks-why-you%e2%80%99re-vulnerable-and-how-azure-marketplace-can-help/2601058
 
-Cloud-Native Security: https://www.sysdig.com/blog/aws-ec2-security-cloudtrail-sysdig
+Cloud-Native Security CNAPP/CSPM: https://www.sysdig.com/blog/aws-rds-security-events-sysdig
 
-Management Thought Leadership: https://www.f5.com/company/blog/nginx/how-nginx-one-enhances-management-and-observability
+Cloud-Native Security CNAPP/CSPM: https://www.sysdig.com/blog/aws-ec2-security-cloudtrail-sysdig
+
+Cloud and App Management Thought Leadership: https://www.f5.com/company/blog/nginx/how-nginx-one-enhances-management-and-observability
 
 
 ## More Technical, still storytelling:
